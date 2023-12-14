@@ -16,6 +16,9 @@ Assurer une gestion efficace des réservations et des commandes : Les administra
 ## Architecture de TerrainSpotApp
 L'application TerrainSpot est basée sur une architecture microservices, ce qui signifie qu'elle est divisée en plusieurs services indépendants, cohérents et spécialisés. Chaque service est responsable d'une fonctionnalité spécifique du système et communique avec les autres services via un bus de services.
 
+![image](https://github.com/Full-Stack-Developers-ESPRIT/Documentation/assets/80216344/d79d4d6a-f748-4730-8e7c-ff876e515ecf)
+
+
 Les principaux services implémentés dans l'application TerrainSpot sont :
 
 ## Service Eureka :
