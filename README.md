@@ -24,6 +24,9 @@ Les principaux services implémentés dans l'application TerrainSpot sont :
 ## Service Eureka :
 Il s'agit d'un service de découverte de microservices qui permet l'enregistrement et la résolution des adresses IP et des ports des différents services.
 
+![image](https://github.com/Full-Stack-Developers-ESPRIT/Documentation/assets/80216344/73d5059e-55f0-43c2-af65-bc797e587be9)
+
+
 ## Service Terrain :
 Gère les fonctionnalités liées aux terrains, y compris la création, la mise à jour et la suppression de terrains. Il offre également des requêtes pour récupérer des informations sur les terrains.
 
@@ -159,6 +162,12 @@ ServiceDeregistered : Émis lorsqu'un service se désenregistre du serveur Eurek
 ## API Gateway
 
 L'API Gateway est un composant essentiel de l'architecture microservices. Il agit comme un point d'entrée unique pour les clients et dirige les requêtes vers les services appropriés. Il fournit également des fonctionnalités telles que l'authentification, l'autorisation et la gestion des versions d'API.
+
+![image](https://github.com/Full-Stack-Developers-ESPRIT/Documentation/assets/80216344/064d9994-3dc5-47ca-8121-80084c01b6e8)
+
+![image](https://github.com/Full-Stack-Developers-ESPRIT/Documentation/assets/80216344/27f0d012-1bd4-4892-bcee-810efffa2f33)
+
+
 
 ## Fonctionnalités
 Routage des requêtes : L'API Gateway reçoit les requêtes des clients et les achemine vers les services appropriés en fonction de l'URL ou d'autres critères de routage.
